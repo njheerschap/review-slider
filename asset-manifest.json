@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/review-slider/static/css/main.7b929783.chunk.css",
+    "main.js": "/review-slider/static/js/main.5994dcb2.chunk.js",
+    "main.js.map": "/review-slider/static/js/main.5994dcb2.chunk.js.map",
+    "runtime-main.js": "/review-slider/static/js/runtime-main.3c0fd3a3.js",
+    "runtime-main.js.map": "/review-slider/static/js/runtime-main.3c0fd3a3.js.map",
+    "static/js/2.2c3ffba9.chunk.js": "/review-slider/static/js/2.2c3ffba9.chunk.js",
+    "static/js/2.2c3ffba9.chunk.js.map": "/review-slider/static/js/2.2c3ffba9.chunk.js.map",
+    "index.html": "/review-slider/index.html",
+    "precache-manifest.4553c1ef8b2c2707b45829d43a035a5f.js": "/review-slider/precache-manifest.4553c1ef8b2c2707b45829d43a035a5f.js",
+    "service-worker.js": "/review-slider/service-worker.js",
+    "static/css/main.7b929783.chunk.css.map": "/review-slider/static/css/main.7b929783.chunk.css.map",
+    "static/js/2.2c3ffba9.chunk.js.LICENSE.txt": "/review-slider/static/js/2.2c3ffba9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0fd3a3.js",
+    "static/js/2.2c3ffba9.chunk.js",
+    "static/css/main.7b929783.chunk.css",
+    "static/js/main.5994dcb2.chunk.js"
+  ]
+}
